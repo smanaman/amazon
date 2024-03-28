@@ -1,0 +1,156 @@
+body{
+    background-color: black;
+}
+.main{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 70px;
+    border: 1px solid black;
+    justify-content: space-around;
+    background-color: black;
+    
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 20%;
+    height: 65px;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: 10px;
+    /* border: 1px solid wheat; */
+}
+.main2{
+    width: 40%;
+    height: 65px;
+    /* border: 1px solid wheat; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    justify-content: space-around;
+}
+.main3{
+    width: 5%;
+    display: flex;
+    align-items: center;
+  justify-content: end;
+    height: 65px;
+    /* border: 1px solid white; */
+    justify-content: space-around;
+}
+.img2{
+    width: 24px;
+    height: 24px;
+    align-items: end;
+    justify-content: space-around;
+}
+.main4{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    width: 5%;
+    height: 65px;
+    /* border: 1px solid white; */
+    justify-content: space-around;
+}
+.img3{
+    width: 24px;
+    height: 24px;
+}
+p{
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+}
+.space{
+    width: 30%;
+    /* border: 1px solid white; */
+    height: 65px;
+}
+.material-symbols-outlined{
+   color: white; 
+}
+
+                            /* screen short */
+.s_short{
+    width: 100%;
+    height: 350px;
+    border: 1px solid black;
+    margin-top: 20px;
+} 
+                               /* row1*/
+
+.rmain{
+    width: 100%;
+    height: 250px;
+    border: 1px solid black;
+    margin-top: 70px;
+}     
+.heading{
+    height: 50px;
+    /* border: 1px solid black; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}  
+.pic{
+    width: 100%;
+    height: 200px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    
+}  
+.khadado{
+    width: 19%;
+    height: 200px;
+    /* border-radius: 300px; */
+    /* border: 1px solid black; */
+    
+  
+} 
+.khadado img{
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+}      
+h2{
+    color: white;
+}  
+.khadado img:hover{
+    transition-delay: 0.1s;
+    transform: scale(1.2);
+    
+}    
+footer{
+    width: 100%;
+    height: 400px;
+    border: 1px solid white;
+    margin-top: 100px;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+h1{
+    color: white;
+}
+.on{
+    width: 200px;
+    background-color: white;
+    /* color: white; */
+}
+.devat{
+    width: 100%;
+    height: 100px;
+    /* border: 1px solid white; */
+    display: flex;
+    justify-content: space-around;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.kamo{
+    margin-top: -90px;
+}
