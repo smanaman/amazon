@@ -1,0 +1,183 @@
+
+/* .img1:hover{
+    border: 1px solid white;
+   
+    /* height: 70px; */
+}
+.main2:hover{
+    border: 1px solid white;
+   
+    /* height: 85px; */
+}.fdiv:hover{
+    border: 1px solid white;
+
+}.s:hover{
+    border: 1px solid white;
+    /* height: 70px; */
+  
+}
+.bo:hover{
+    border: 1px solid white;
+   
+    /* height: 85px; */
+}
+.boam:hover{
+    border: 0.1px solid white;
+    /* height: 70px; */
+    
+} */
+/* .rnw{
+    color: white;
+}
+
+
+.ama{
+    color: white;
+}
+.Hello p{
+    font-size: 19px;
+}
+
+.Hello:hover{
+    border: 1px solid white;
+} */
+                /* ccc */
+                .main1{
+                    width: 8%;
+                    height: 70px;
+                    border: 1px solid black;
+                }
+                .main2{
+                   
+                  width: 80%;
+                    height: 70px;
+                    border: 1px solid black;
+                    display: flex;
+                    color: white;
+                }
+                .mainp{
+                    /* width: 50%; */
+                }
+                .main3{
+                    width: 35%;
+                    height: 70px;
+                    /* border: 1px solid black; */
+                    display: flex;
+                    /* justify-content: center;
+                    align-items: center; */
+                }
+                .icon{
+                    width: 10%;
+                    height: 70px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    /* border: 1px solid black; */
+                }
+                .icon_all{
+                    width: 100%;
+                    height: 45px;
+                }
+                .input{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    width: 80%;
+                    height: 70px;
+                    /* border: 1px solid black; */
+                }
+                input{
+                    width: 100%;
+                    height: 45px;
+                }
+                
+                .search{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    width: 10%;
+                    height: 70px;
+                    /* border: 1px solid black; */
+                }
+                .search_button{
+                    width: 100%;
+                    height: 45px;
+                }
+                .four{
+                    width: 40%;
+                    height: 70px;
+                    /* border: 1px solid blue; */
+                    display: flex;
+                    justify-content: space-around;
+                }
+                .fdiv{
+                    width: 20%;
+                    height: 50px;
+                    border: 1px solid white;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+                .f1{
+                    width: 75%;
+                    height: 50px;
+                    color: white;
+                    /* border: 1px solid black; */
+                }
+                .f2{
+                    height: 50px;
+                    width: 15%;
+                    color: white;
+                    /* border: 1px solid black; */
+                }
+                .f3{
+                    height: 50px;
+                        width: 15%;
+                        color: white;
+                        /* border: 1px solid black; */
+                }
+                .login_page{
+                    
+                    width: 100%;
+                    border: 1px solid black;
+                    display: flex;
+                    color: white;
+                }
+                .login_p{
+                    width: 70%;
+                    height: 70px;
+                    color: white;
+                    /* border: 1px solid black; */
+                }
+                .login_icon{
+                    width: 30%;
+                    height: 70px;
+                    color: white;
+                    /* border: 1px solid black; */
+                }
+                .sign_page{
+                    width: 100%;
+                    height: 70px;
+                    border: 1px solid black;
+                    color: white;
+                }
+                .cart{
+                    /* width: 20%; */
+                    height: 70px;
+                    /* border: 1px solid white; */
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    color: white;
+                }
+                .cart1{
+                    width: 50%;
+                    height: 70px;
+                    /* border: 1px solid white; */
+                    color: white;
+                }
+                .cart2{
+                  
+                    /* border: 1px solid white; */
+                    color: white;
+                }
